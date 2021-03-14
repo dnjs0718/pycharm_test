@@ -1,2 +1,2 @@
 # pycharm_test
-for pycharm
+파이썬 실력 향상 시키기!
